@@ -27,9 +27,9 @@
   ],
   "dependencies": {
     "polymer": "#1.9 - 2",
-    "px-datetime-field": "^2.0.0",
+    "px-datetime-field": "git+https://github.com/dargonwanglong/px-datetime-field.git#2.2.2",
     "px-calendar-picker": "^2.0.0",
-    "px-datetime-common": "^3.3.0",
+    "px-datetime-common": "git+https://github.com/dargonwanglong/px-datetime-common.git#3.3.3",
     "iron-a11y-keys-behavior": "^2.0.0",
     "iron-dropdown": "^2.0.0",
     "iron-media-query": "^2.0.0",
