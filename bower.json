@@ -27,9 +27,9 @@
   ],
   "dependencies": {
     "polymer": "#1.9 - 2",
-    "px-datetime-field": "git+https://github.com/dargonwanglong/px-datetime-field.git#2.2.3",
-    "px-calendar-picker": "git+https://github.com/dargonwanglong/px-calendar-picker.git#2.1.0",
-    "px-datetime-common": "git+https://github.com/dargonwanglong/px-datetime-common.git#3.3.4",
+    "px-datetime-field": "git+https://github.com/dargonwanglong/px-datetime-field.git#2.2.5",
+    "px-calendar-picker": "git+https://github.com/dargonwanglong/px-calendar-picker.git#2.1.1",
+    "px-datetime-common": "git+https://github.com/dargonwanglong/px-datetime-common.git#3.3.5",
     "iron-a11y-keys-behavior": "^2.0.0",
     "iron-dropdown": "^2.0.0",
     "iron-media-query": "^2.0.0",
