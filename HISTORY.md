@@ -1,3 +1,9 @@
+v2.3.1
+==================
+* Updated version of px-datetime-common to https://github.com/ServiceMax-Engineering/px-datetime-common.git#3.3.2
+* Updated version of px-datetime-field to https://github.com/ServiceMax-Engineering/px-datetime-field.git#2.2.2
+* Updated version of px-calendar-picker to https://github.com/ServiceMax-Engineering/px-calendar-picker.git#2.0.10
+
 v2.3.0
 ==================
 * Added i18n support for date picker placeholder text via the `resources` property.
